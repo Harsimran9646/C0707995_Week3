@@ -20,7 +20,7 @@ namespace C0707995_Week3
 
             }
             else { Console.WriteLine("Promoted to level 2"); }
-
+            //commit agian!
 
         }
         public int CalculateRating()
